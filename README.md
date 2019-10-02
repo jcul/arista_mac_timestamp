@@ -10,3 +10,5 @@ You can run the plugin using tshark or wireshark:
 Or you can install it by copying the lua script to wireshark's plugin directory:
 
 https://www.wireshark.org/docs/wsug_html_chunked/ChPluginFolders.html
+
+To enable / disable, in the GUI, Analyze->Enabled Protocols... (Ctrl+Shift+E).
